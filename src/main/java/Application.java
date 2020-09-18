@@ -15,4 +15,8 @@ public class Application {
     public int mod() {
         return x % y;
     }
+
+    public void test()  {
+        System.out.println("Just a little test");
+    }
 }
