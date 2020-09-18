@@ -1,6 +1,7 @@
 public class Application {
     private final int x;
     private final int y;
+    int z;
 
     public Application(int x, int y) {
         this.x = x;
